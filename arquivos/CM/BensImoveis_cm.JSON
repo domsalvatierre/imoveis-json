@@ -1,0 +1,50 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 1,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "Av. Compensa, 770 - Vila da Prata - CEP 69.035-575",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 150101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    },
+    {
+        "competencia": "202601",
+        "nrTombamento": 2,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "Av. Compensa, 770 - Vila da Prata - CEP 69.035-575",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 150101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    },
+    {
+        "competencia": "202601",
+        "nrTombamento": 3,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "Rua Visconde de Mauá S/Nº - Centro - CEP 69.005-430",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 150101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]

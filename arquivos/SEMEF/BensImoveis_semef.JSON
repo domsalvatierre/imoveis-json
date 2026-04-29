@@ -1,0 +1,18 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 1077,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "Av. Japurá, 572 - Centro - CEP 69.025-20",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 160101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]

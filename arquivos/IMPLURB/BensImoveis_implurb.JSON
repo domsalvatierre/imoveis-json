@@ -1,0 +1,18 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 4,
+        "nrAfetacao": 22026,
+        "diarioAfetacao": 6250,
+        "tpEdificacao": 0,
+        "endereco": "Av. Desembargador João Machado, s/n - Loteamento Parque Mosaico -Tarumã - CEP 69.044-002",
+        "leiAfetacao": "Lei nº 3071, 15/06/2023",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 560201,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]

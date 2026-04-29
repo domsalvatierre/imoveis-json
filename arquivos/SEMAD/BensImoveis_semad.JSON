@@ -1,0 +1,34 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 1079,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "R. Flor Amor Agarradinho (antiga Rua 04), 97 - Bairro da Paz - CEP 69.048-382",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 140101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    },
+    {
+        "competencia": "202601",
+        "nrTombamento": 1080,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "Av. Desembargador João Machado, 4444 - Alvorada - CEP 69.043-000",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 140101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]

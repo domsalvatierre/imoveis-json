@@ -1,0 +1,18 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 1078,
+        "nrAfetacao": 42024,
+        "diarioAfetacao": 5833,
+        "tpEdificacao": 0,
+        "endereco": "R. Borba,1096 - Cachoeirinha - CEP 69.065-030",
+        "leiAfetacao": "Lei nº 3071, 15/06/2023",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 440101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 85,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "Av. Brasil, 2971- Compensa I - CEP 69.036-110",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 130101,
+        "areaTerreno": 0,
+        "areaConstruida": 0,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]
