@@ -19,6 +19,7 @@ PASTA_ARQUIVOS = "arquivos"
 # 🔐 SENHAS
 USUARIOS = {
     "CM": bcrypt.hashpw("Cm@8392!".encode(), bcrypt.gensalt()),
+    "FDT": bcrypt.hashpw("Fd@1234!".encode(), bcrypt.gensalt()),
     "MANAUSCULT": bcrypt.hashpw("Mc#4721!".encode(), bcrypt.gensalt()),
     "SEMACC": bcrypt.hashpw("Sa$9182!".encode(), bcrypt.gensalt()),
     "SEMED": bcrypt.hashpw("Sd%2746!".encode(), bcrypt.gensalt()),

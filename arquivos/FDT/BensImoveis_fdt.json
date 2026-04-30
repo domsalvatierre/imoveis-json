@@ -1,0 +1,34 @@
+[
+    {
+        "competencia": "202601",
+        "nrTombamento": 1081,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "R. Dr. Thomas, 798 - Nossa Senhora das Graças - CEP 69.053-035",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 520301,
+        "areaTerreno": 0,
+        "areaConstruida": 495512,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    },
+    {
+        "competencia": "202601",
+        "nrTombamento": 1082,
+        "nrAfetacao": 0,
+        "diarioAfetacao": 0,
+        "tpEdificacao": 0,
+        "endereco": "R. Rio Mar, 1.324 - Nossa Senhora das Graças - CEP 69.093-452",
+        "leiAfetacao": "Em ajuste",
+        "situacaoUso": 0,
+        "codUnidadeOrcamentaria": 520301,
+        "areaTerreno": 0,
+        "areaConstruida": 777476,
+        "vlIncorporacao": 0,
+        "dtEntrada": "00000000",
+        "dtUltimoInventario": "00000000"
+    }
+]
