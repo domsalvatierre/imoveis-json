@@ -318,21 +318,5 @@
         "vlIncorporacao": 0,
         "dtEntrada": "00000000",
         "dtUltimoInventario": "00000000"
-    },
-    {
-        "competencia": "202601",
-        "nrTombamento": 525,
-        "nrAfetacao": 0,
-        "diarioAfetacao": 0,
-        "tpEdificacao": 0,
-        "endereco": "Rua Castro Alves, S/N - Aleixo - CEP 69.060-040",
-        "leiAfetacao": "Em ajuste",
-        "situacaoUso": 0,
-        "codUnidadeOrcamentaria": 260101,
-        "areaTerreno": 0,
-        "areaConstruida": 0,
-        "vlIncorporacao": 0,
-        "dtEntrada": "00000000",
-        "dtUltimoInventario": "00000000"
     }
 ]
