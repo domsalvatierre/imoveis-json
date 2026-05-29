@@ -2785,22 +2785,6 @@
     },
     {
         "competencia": "202603",
-        "nrTombamento": 971,
-        "nrAfetacao": 0,
-        "diarioAfetacao": 0,
-        "tpEdificacao": 0,
-        "endereco": "Rua José Clemente, S/Nº - Bairro do Céu - CEP 69.010-070",
-        "leiAfetacao": "Em ajuste",
-        "situacaoUso": 0,
-        "codUnidadeOrcamentaria": 230101,
-        "areaTerreno": 0,
-        "areaConstruida": 0,
-        "vlIncorporacao": 0,
-        "dtEntrada": "00000000",
-        "dtUltimoInventario": "00000000"
-    },
-    {
-        "competencia": "202603",
         "nrTombamento": 972,
         "nrAfetacao": 0,
         "diarioAfetacao": 0,
